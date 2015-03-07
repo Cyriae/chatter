@@ -1,6 +1,6 @@
 (defproject chatter "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+  :description "This is a Cojure based web messaging application"
+  :url "http://example.com/EriODiah"
   :min-lein-version "2.0.0"
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [compojure "1.3.1"]
